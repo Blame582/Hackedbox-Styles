@@ -1,0 +1,114 @@
+#Name:            bluebox
+#Updated:         (10/26) for hackedbox-0.9.0+
+
+root.iconSet:                     /usr/share/icons/Suru+
+root.background:                  /usr/share/hackedbox/styles/bluebox/bluebox-linux.jpg
+
+menu.title:                       Raised Gradient Vertical
+menu.title.color:                 #1B375C
+menu.title.colorTo:               #5481E8
+menu.title.textColor:             #96FF00
+menu.title.font:                  Hack-18
+menu.title.justify:               Center
+
+menu.frame:                       Flat Gradient Horizontal
+menu.frame.color:                 #1B375C
+menu.frame.colorTo:               #5481E8
+menu.frame.textColor:             #7AA3E1
+menu.frame.font:                  Hack-14
+menu.frame.justify:               left
+
+menu.hilite:                      Sunken Bevel1 Gradient Horizontal
+menu.hilite.color:                #21354a
+menu.hilite.colorTo:              #406285
+menu.hilite.textColor:            #96FF00
+
+menu.clock.font:                  Hack-15
+menu.clock.textColor:             #7AA3E1
+menu.clock.format:                %I:%M:%S %p
+menu.clock.justify:               center
+
+menu.date.font:                   Hack-15
+menu.date.textColor:              #7AA3E1
+menu.date.format:                 %m/%d/%Y
+menu.date.justify:                center
+
+menu.bullet:                      Triangle
+menu.bullet.position:             Right
+
+menu.icon:                        true
+menu.icon.position:               left
+
+window.font:                      Hack-16
+window.justify:                   Center
+
+window.title.focus:               Raised Bevel1 Gradient Vertical
+window.title.focus.color:         #414b57
+window.title.focus.colorTo:       #6a7b8f
+
+window.title.unfocus:             Raised Bevel1 Gradient Vertical
+window.title.unfocus.color:       #414b57
+window.title.unfocus.colorTo:     #6a7b8f
+
+window.label.focus:               Sunken Bevel1 Gradient Vertical
+window.label.focus.color:         #21354a
+window.label.focus.colorTo:       #406285
+window.label.focus.textColor:     #96FF00
+window.label.focus.justify:       Center
+
+window.label.unfocus:             Flat Gradient Vertical
+window.label.unfocus.color:       #414b57
+window.label.unfocus.colorTo:     #6a7b8f
+window.label.unfocus.textColor:   #7e8c9d
+
+window.button.focus:              Flat Gradient Vertical
+window.button.focus.color:        #46505d
+window.button.focus.colorTo:      #67788b
+window.button.focus.picColor:     #96FF00
+
+window.button.unfocus:            Flat Gradient Vertical
+window.button.unfocus.color:      #46505d
+window.button.unfocus.colorTo:    #67788b
+window.button.unfocus.picColor:   #7e8c9d
+
+window.button.pressed:            Sunken Bevel1 Gradient Diagonal
+window.button.pressed.color:      #6a7482
+window.button.pressed.colorTo:    #73787e
+
+window.frame.focusColor:          #73787e
+window.frame.unfocusColor:        #62666b
+
+window.handle.focus:              Raised Bevel1 Solid Vertical
+window.handle.focus.color:        #46505d
+window.handle.focus.colorTo:      #ffffff
+
+window.handle.unfocus:            Raised Bevel1 Solid Horizontal
+window.handle.unfocus.color:      #3c4550
+window.handle.unfocus.colorTo:    #ffffff
+
+window.grip.focus:                Raised Bevel1 Solid Vertical
+window.grip.focus.color:          #46505d
+window.grip.focus.colorTo:        #ffffff
+
+window.grip.unfocus:              Raised Bevel1 Solid Horizontal
+window.grip.unfocus.color:        #3c4550
+window.grip.unfocus.colorTo:      #ffffff
+
+window.dialog.font:               Hack-12
+window.dialog.bgcolor:            #2c333b
+window.dialog.inputColor:         #21354a
+window.dialog.inputTextColor:     #d7e0ee
+window.dialog.textColor:          #d7e0ee
+window.dialog.accentColor:        #a8bed6
+window.dialog.borderColor:        #414b57
+window.dialog.borderColor.focus:  #6a7b8f
+window.dialog.buttonColor:        #46505d
+window.dialog.buttonColorTo:      #67788b
+window.dialog.buttonTextColor:    #d8e0ee
+window.dialog.buttonFocusColor:   #21354a
+window.dialog.borderWidth:        1
+
+borderColor:                      #7AA3E1
+borderWidth:                      1
+bevelWidth:                       1
+handleWidth:                      5

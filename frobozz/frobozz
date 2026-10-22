@@ -1,0 +1,118 @@
+#Name: Frobozz
+#Author: blame
+#updated: (10/2026) for hackedbox-0.9.0
+
+root.iconSet:                        /usr/share/icons/Suru+
+root.background:                     /usr/share/hackedbox/styles/frobozz/classic-linux.jpg
+root.background.mode:                center
+
+menu.title:                          Raised Bevel1 Solid PipeCross
+menu.title.font:                     Hack-16
+menu.title.justify:                  center
+menu.title.color:                    #263340
+menu.title.colorTo:                  #485561
+menu.title.textColor:                #D7E0EE
+
+menu.frame:                          Raised Bevel1 Solid Elliptic
+menu.frame.font:                     Hack-14
+menu.frame.justify:                  right
+menu.frame.color:                    #303A46
+menu.frame.colorTo:                  #485561
+menu.frame.textColor:                #D7E0EE
+menu.frame.disableColor:             #909090
+
+menu.hilite:                         Sunken Bevel1 Solid CrossDiagonal
+menu.hilite.color:                   #485561
+menu.hilite.colorTo:                 #63707F
+menu.hilite.textColor:               #FFFFFF
+
+menu.clock.font:                     Hack-14
+menu.clock.justify:                  center
+menu.clock.textColor:                #D7E0EE
+menu.clock.format:                   %I:%M:%S %p
+
+menu.date.font:                      Hack-14
+menu.date.justify:                   center
+menu.date.textColor:                 #BCC3CE
+menu.date.format:                    %m/%d/%Y
+
+menu.bullet:                         Triangle
+menu.bullet.position:                right
+
+menu.icon:                           true
+menu.icon.position:                  left
+
+window.font:                         Hack-14
+window.justify:                      left
+
+window.title.focus:                  Raised Bevel1 Solid Diagonal
+window.title.focus.color:            #485561
+window.title.focus.colorTo:          #63707F
+
+window.title.unfocus:                Raised Bevel1 Solid Diagonal
+window.title.unfocus.color:          #303A46
+window.title.unfocus.colorTo:        #484848
+
+window.label.focus:                  Sunken Bevel1 Solid Pyramid
+window.label.focus.color:            #263340
+window.label.focus.colorTo:          #485561
+window.label.focus.textColor:        #D7E0EE
+window.label.focus.justify:          left
+
+window.label.unfocus:                parentrelative
+window.label.unfocus.color:          #303A46
+window.label.unfocus.colorTo:        #484848
+window.label.unfocus.textColor:      #BCC3CE
+
+window.button.focus:                 Flat Solid PipeCross
+window.button.focus.color:           #485561
+window.button.focus.colorTo:         #63707F
+window.button.focus.picColor:        #D7E0EE
+
+window.button.unfocus:               Flat Solid Pyramid
+window.button.unfocus.color:         #303A46
+window.button.unfocus.colorTo:       #484848
+window.button.unfocus.picColor:      #BCC3CE
+
+window.button.pressed:               Sunken Bevel1 Solid Diagonal
+window.button.pressed.color:         #263340
+window.button.pressed.colorTo:       #485561
+
+window.handle.focus:                 Raised Bevel1 Solid Pyramid
+window.handle.focus.color:           #485561
+window.handle.focus.colorTo:         #63707F
+
+window.handle.unfocus:               Raised Bevel1 Solid Pyramid
+window.handle.unfocus.color:         #303A46
+window.handle.unfocus.colorTo:       #484848
+
+window.grip.focus:                   Raised Bevel1 Solid PipeCross
+window.grip.focus.color:             #485561
+window.grip.focus.colorTo:           #63707F
+
+window.grip.unfocus:                 Sunken Bevel1 Solid Pyramid
+window.grip.unfocus.color:           #303A46
+window.grip.unfocus.colorTo:         #484848
+
+window.frame.focusColor:             #63707F
+window.frame.unfocusColor:           #303A46
+
+window.dialog.font:                  Hack-14
+window.dialog.bgcolor:               #263340
+window.dialog.inputColor:            #303A46
+window.dialog.inputTextColor:        #D7E0EE
+window.dialog.textColor:             #D7E0EE
+window.dialog.accentColor:           #63707F
+window.dialog.borderColor:           #485561
+window.dialog.borderColor.focus:     #D7E0EE
+window.dialog.buttonColor:           #485561
+window.dialog.buttonColorTo:         #263340
+window.dialog.buttonTextColor:       #D7E0EE
+window.dialog.buttonFocusColor:      #63707F
+window.dialog.borderWidth:           1
+
+handleWidth:                         4
+frameWidth:                          0
+bevelWidth:                          0
+borderWidth:                         1
+borderColor:                         #263340

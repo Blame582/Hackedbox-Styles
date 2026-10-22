@@ -1,0 +1,119 @@
+#Name: trisb
+#Author: miklos
+#Date: March 25, 2002
+#updated: (09/2026) for hackedbox-0.9.0+
+
+root.iconSet:                       /usr/share/icons/CRUSHED-Grey-Suru
+root.background:                    /usr/share/hackedbox/styles/trisb/trisb.jpg
+
+menu.title:                          flat gradient vertical
+menu.title.font:                     Hack-16
+menu.title.justify:                  center
+menu.title.color:                    #8E8E8E
+menu.title.colorTo:                  #5F5F5F
+menu.title.textColor:                #C8C8C8
+
+menu.frame:                          flat gradient crossdiagonal
+menu.frame.font:                     Hack-14
+menu.frame.justify:                  left
+menu.frame.color:                    #D5D5D5
+menu.frame.colorTo:                  #B4B4B4
+menu.frame.textColor:                #343434
+menu.frame.disableColor:             #FFFFFF
+
+menu.hilite:                         flat gradient vertical
+menu.hilite.color:                   #3B90DC
+menu.hilite.colorTo:                 #2C5F8C
+menu.hilite.textColor:               #3B90DC
+
+menu.clock.font:                     Hack-13
+menu.clock.justify:                  left
+menu.clock.textColor:                #343434
+menu.clock.format:                   %I:%M:%S %p
+
+menu.date.font:                      Hack-13
+menu.date.justify:                   left
+menu.date.textColor:                 #343434
+menu.date.format:                    %m/%d/%Y
+
+menu.bullet:                         triangle
+menu.bullet.position:                right
+
+menu.icon:                           true
+menu.icon.position:                  left
+
+window.font:                         Hack-14
+window.justify:                      center
+
+window.title.focus:                  flat gradient vertical
+window.title.focus.color:            #3B90DC
+window.title.focus.colorTo:          #2C5F8C
+
+window.title.unfocus:                flat gradient vertical
+window.title.unfocus.color:          #8E8E8E
+window.title.unfocus.colorTo:        #5F5F5F
+
+window.label.focus:                  flat gradient vertical
+window.label.focus.color:            #3B90DC
+window.label.focus.colorTo:          #2C5F8C
+window.label.focus.textColor:        #8EFDFF
+window.label.focus.justify:          center
+
+window.label.unfocus:                flat gradient vertical
+window.label.unfocus.color:          #8E8E8E
+window.label.unfocus.colorTo:        #5F5F5F
+window.label.unfocus.textColor:      #AAAAAA
+
+window.button.focus:                 flat gradient vertical
+window.button.focus.color:           #3B90DC
+window.button.focus.colorTo:         #2C5F8C
+window.button.focus.picColor:        #8EFDFF
+
+window.button.unfocus:               flat gradient vertical
+window.button.unfocus.color:         #8E8E8E
+window.button.unfocus.colorTo:       #5F5F5F
+window.button.unfocus.picColor:      #AAAAAA
+
+window.button.pressed:               sunken bevel1 solid vertical
+window.button.pressed.color:         #3B90DC
+
+window.grip.focus:                   flat solid vertical
+window.grip.focus.color:             #3B90DC
+window.grip.focus.colorTo:           #2C5F8C
+
+window.grip.unfocus:                 flat gradient vertical
+window.grip.unfocus.color:           #8E8E8E
+window.grip.unfocus.colorTo:         #5F5F5F
+
+window.handle.focus:                 flat gradient vertical
+window.handle.focus.color:           #3B90DC
+window.handle.focus.colorTo:         #2C5F8C
+
+window.handle.unfocus:               flat gradient vertical
+window.handle.unfocus.color:         #7A7A7A
+window.handle.unfocus.colorTo:       #555555
+
+window.frame.focusColor:             #343434
+window.frame.unfocusColor:           #000000
+
+window.dialog.font:                  Hack-14
+window.dialog.bgcolor:               #C8C8C8
+window.dialog.inputColor:            #A1A1A1
+window.dialog.inputTextColor:        #121212
+window.dialog.textColor:             #121212
+window.dialog.accentColor:           #A1A1A1
+window.dialog.borderColor:           #121212
+window.dialog.borderColor.focus:     #3B90DC
+window.dialog.buttonColor:           #A1A1A1
+window.dialog.buttonColorTo:         #2C5F8C
+window.dialog.buttonTextColor:       #121212
+window.dialog.buttonFocusColor:      #3B90DC
+window.dialog.borderWidth:           1
+
+borderColor:                         #121212
+borderWidth:                         1
+
+handleWidth:                         3
+frameWidth:                          0
+bevelWidth:                          1
+

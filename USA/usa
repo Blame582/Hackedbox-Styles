@@ -1,0 +1,104 @@
+#Name: USA
+#Author: Blame
+#updated: (09/2026) for hackedbox-0.9.0
+
+root.iconSet:                       /usr/share/hackedbox/styles/USA/icons/CRUSHED-USA-Suru
+root.background:                    /usr/share/hackedbox/styles/USA/background/wavy-american-flag.jpg
+
+menu.title:                         flat crossdiagonal gradient
+menu.title.font:                    Hack-18
+menu.title.justify:                 center
+menu.title.color:                   #1B3A6F
+menu.title.colorTo:                 #0B1F3A
+menu.title.textColor:               #FFFFFF
+
+menu.frame:                         flat crossdiagonal gradient
+menu.frame.font:                    Hack-13
+menu.frame.justify:                 center
+menu.frame.color:                   #1B1B1B
+menu.frame.textColor:               #FFFFFF
+menu.frame.disableColor:            #666666
+
+menu.hilite:                        flat solid
+menu.hilite.color:                  #B22234
+menu.hilite.textColor:              #FFFFFF
+
+menu.clock.font:                    Hack-15
+menu.clock.justify:                 center
+menu.clock.textColor:               #FFFFFF
+menu.clock.format:                  %I:%M:%S %p
+
+menu.date.font:                     Hack-15
+menu.date.justify:                  center
+menu.date.textColor:                #FFFFFF
+menu.date.format:                   %m/%d/%Y
+
+menu.icon:                          true
+menu.icon.position:                 left
+
+menu.bullet.position:               right
+menu.bullet:                        triangle
+
+window.font:                        Hack-14
+window.justify:                     Center
+
+window.title.focus:                 flat solid
+window.title.focus.color:           #1B3A6F
+window.title.focus.colorTo:         #1B3A6F
+
+window.title.unfocus:               flat solid
+window.title.unfocus.color:         #333333
+
+window.label.focus:                 /usr/share/hackedbox/styles/USA/textures/titlebar.label.focus.png
+window.label.focus.textColor:       #FFFFFF
+window.label.unfocus:               /usr/share/hackedbox/styles/USA/textures/titlebar.label.unfocus.png
+window.label.unfocus.textColor:     #242424
+
+window.button.focus:                flat solid
+window.button.focus.color:          #1B3A6F
+window.button.focus.colorTo:        #1B3A6F
+window.button.focus.picColor:       #FFFFFF
+
+window.button.unfocus:              flat solid
+window.button.unfocus.color:        #333333
+window.button.unfocus.picColor:     #AAAAAA
+
+window.button.pressed:              flat solid
+window.button.pressed.color:        #B22234
+window.button.pressed.colorTo:      #B22234
+
+window.handle.focus:                flat solid
+window.handle.focus.color:          #B22234
+window.handle.focus.colorTo:        #B22234
+window.handle.unfocus:              flat solid
+window.handle.unfocus.color:        #333333
+
+window.grip.focus:                  flat solid
+window.grip.focus.color:            #1B3A6F
+window.grip.focus.colorTo:          #1B3A6F
+window.grip.unfocus:                flat solid
+window.grip.unfocus.color:          #333333
+window.grip.unfocus.colorTo:        #333333
+
+window.frame.focusColor:            #B22234
+window.frame.unfocusColor:          #333333
+
+window.dialog.font:                 Hack-13
+window.dialog.bgcolor:              #14181C
+window.dialog.inputColor:           #0A141E
+window.dialog.inputTextColor:       #FFFFFF
+window.dialog.textColor:            #FFFFFF
+window.dialog.accentColor:          #B22234
+window.dialog.borderColor:          #505458
+window.dialog.borderColor.focus:    #B22234
+window.dialog.buttonColor:          #32363A
+window.dialog.buttonColorTo:        #14181C
+window.dialog.buttonTextColor:      #FFFFFF
+window.dialog.buttonFocusColor:     #B22234
+window.dialog.borderWidth:          1
+window.dialog.alpha:                255
+
+borderColor:                        #0B0B0B
+bevelWidth:                         1
+borderWidth:                        2
+handleWidth:                        4

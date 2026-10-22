@@ -1,0 +1,113 @@
+#Name: Halloween
+#Author: Blame
+#Date: 09/2026
+#Version: 0.9.0+
+
+root.iconSet: /usr/share/icons/CRUSHED-Orange-Suru
+root.background: /usr/share/hackedbox/styles/halloween/default1.jpg
+
+# Background folder for automatic image rotation
+#root.background.folder: /usr/share/hackedbox/styles/halloween
+# Background rotation timer in minutes (0 = disabled)
+#root.background.timer: 5
+
+menu.title: raised gradient diagonal
+menu.title.font: Hack-14
+menu.title.justify: center
+menu.title.color: #4A4A4A
+menu.title.colorTo: #181818
+menu.title.textColor: #FF8C1A
+
+menu.frame: sunken gradient diagonal
+menu.frame.font: Hack-13
+menu.frame.justify: center
+menu.frame.color: #181818
+menu.frame.colorTo: #333333
+menu.frame.textColor: #FF8C1A
+
+menu.hilite: raised gradient diagonal
+menu.hilite.color: #CC5500
+menu.hilite.colorTo: #663300
+menu.hilite.textColor: #FFFFFF
+
+menu.clock.font: Hack-13
+menu.clock.justify: center
+menu.clock.textColor: #CC5500
+menu.clock.format: %I:%M:%S %p
+
+menu.date.font: Hack-13
+menu.date.justify: center
+menu.date.textColor: #CC5500
+menu.date.format: %m/%d/%Y
+
+menu.bullet: triangle
+menu.bullet.position: right
+
+menu.icon: true
+menu.icon.position: left
+
+window.font: Hack-14
+window.justify: center
+
+window.title.focus: raised gradient vertical
+window.title.focus.color: #CC5500
+window.title.focus.colorTo: #663300
+window.title.unfocus: raised vertical gradient
+window.title.unfocus.color: #333333
+window.title.unfocus.colorTo: #0F0F0F
+
+window.label.focus: sunken diagonal gradient
+window.label.focus.color: #181818
+window.label.focus.colorTo: #333333
+window.label.focus.textColor: #FFFFFF
+window.label.unfocus: sunken gradient diagonal
+window.label.unfocus.color: #0F0F0F
+window.label.unfocus.colorTo: #242424
+window.label.unfocus.textColor: #777777
+
+window.button.focus: raised gradient diagonal
+window.button.focus.color: #CC5500
+window.button.focus.colorTo: #663300
+window.button.focus.picColor: #FFFFFF
+window.button.unfocus: raised gradient diagonal
+window.button.unfocus.color: #333333
+window.button.unfocus.colorTo: #0F0F0F
+window.button.unfocus.picColor: #777777
+window.button.pressed: sunken gradient diagonal
+window.button.pressed.color: #8B3D00
+window.button.pressed.colorTo: #4A2200
+
+window.frame.focusColor: #CC5500
+window.frame.unfocusColor: #181818
+
+window.handle.focus: raised gradient diagonal
+window.handle.focus.color: #CC5500
+window.handle.focus.colorTo: #663300
+window.handle.unfocus: raised gradient diagonal
+window.handle.unfocus.color: #333333
+window.handle.unfocus.colorTo: #0F0F0F
+
+window.grip.focus: sunken diagonal gradient
+window.grip.focus.color: #4A4A4A
+window.grip.unfocus: sunken diagonal gradient
+window.grip.unfocus.color: #0F0F0F
+window.grip.unfocus.colorTo: #242424
+
+window.dialog.font: Hack-13
+window.dialog.bgcolor: #181818
+window.dialog.inputColor: #242424
+window.dialog.inputTextColor: #FFFFFF
+window.dialog.textColor: #D9D9D9
+window.dialog.accentColor: #FF8C1A
+window.dialog.borderColor: #4A4A4A
+window.dialog.borderColor.focus: #CC5500
+window.dialog.buttonColor: #333333
+window.dialog.buttonColorTo: #181818
+window.dialog.buttonTextColor: #FFFFFF
+window.dialog.buttonFocusColor: #FF8C1A
+window.dialog.borderWidth: 1
+
+borderColor: #CC5500
+borderWidth: 1
+bevelWidth: 2
+handleWidth: 5

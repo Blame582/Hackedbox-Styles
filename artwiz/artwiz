@@ -1,0 +1,109 @@
+#Name: Artwiz
+#Updated (10/2026) for hackedbox-0.9.0
+
+root.iconSet:                       /usr/share/icons/CRUSHED-Cobalt-Suru
+root.background:                    /usr/share/hackedbox/styles/artwiz/artwiz.jpg
+root.background.mode:               center
+
+menu.title.font:                    Hack-16
+menu.title:                         raised gradient diagonal
+menu.title.color:                   #35465A
+menu.title.colorTo:                 #101820
+menu.title.textColor:               #5C91E8
+menu.title.justify:                 center
+
+menu.frame.font:                    Hack-14
+menu.frame:                         sunken gradient diagonal
+menu.frame.color:                   #101820
+menu.frame.colorTo:                 #29394D
+menu.frame.textColor:               #5C91E8
+menu.frame.justify:                 center
+
+menu.hilite:                        raised gradient diagonal
+menu.hilite.color:                  #40546C
+menu.hilite.colorTo:                #1A2A3D
+menu.hilite.textColor:              #FFFFFF
+
+menu.clock.font:                    Hack-15
+menu.clock.textColor:               #5C91E8
+menu.clock.format:                  %I:%M:%S %p
+menu.clock.justify:                 center
+
+menu.date.font:                     Hack-15
+menu.date.textColor:                #5C91E8
+menu.date.format:                   %m/%d/%Y
+menu.date.justify:                  center
+
+menu.bullet:                        triangle
+menu.bullet.position:               right
+
+menu.icon:                          true
+menu.icon.position:                 right
+
+window.font:                        Hack-14
+window.justify:                     center
+
+window.title.focus:                 raised gradient vertical
+window.title.focus.color:           #35465A
+window.title.focus.colorTo:         #101820
+window.title.unfocus:               raised vertical gradient
+window.title.unfocus.color:         #29394D
+window.title.unfocus.colorTo:       #0A1018
+
+window.label.focus:                 sunken diagonal gradient
+window.label.focus.color:           #101820
+window.label.focus.colorTo:         #29394D
+window.label.focus.textColor:       #5C91E8
+window.label.unfocus:               sunken gradient diagonal
+window.label.unfocus.color:         #0A1018
+window.label.unfocus.colorTo:       #1A2736
+window.label.unfocus.textColor:     #8193AA
+
+window.button.focus:                raised gradient diagonal
+window.button.focus.color:          #35465A
+window.button.focus.colorTo:        #101820
+window.button.focus.picColor:       #5C91E8
+window.button.unfocus:              raised gradient diagonal
+window.button.unfocus.color:        #29394D
+window.button.unfocus.colorTo:      #0A1018
+window.button.unfocus.picColor:     #8193AA
+window.button.pressed:              sunken gradient diagonal
+window.button.pressed.color:        #14263C
+window.button.pressed.colorTo:      #304C70
+
+window.frame.focusColor:            #29394D
+window.frame.unfocusColor:          #101820
+
+window.handle.focus:                raised gradient diagonal
+window.handle.focus.color:          #35465A
+window.handle.focus.colorTo:        #1A2736
+window.handle.unfocus:              raised gradient diagonal
+window.handle.unfocus.color:        #29394D
+window.handle.unfocus.colorTo:      #0A1018
+
+window.grip.focus:                  sunken diagonal gradient
+window.grip.focus.color:            #14263C
+window.grip.focus.colorTo:          #30445C
+window.grip.unfocus:                sunken gradient diagonal
+window.grip.unfocus.color:          #0A1018
+window.grip.unfocus.colorTo:        #1A2736
+
+window.dialog.font:                 Hack-13
+window.dialog.bgcolor:              #101820
+window.dialog.inputColor:           #0A141E
+window.dialog.inputTextColor:       #B8CBE2
+window.dialog.textColor:            #FFFFFF
+window.dialog.accentColor:          #5C91E8
+window.dialog.borderColor:          #35465A
+window.dialog.borderColor.focus:    #5C91E8
+window.dialog.buttonColor:          #29394D
+window.dialog.buttonColorTo:        #101820
+window.dialog.buttonTextColor:      #FFFFFF
+window.dialog.buttonFocusColor:     #40546C
+window.dialog.borderWidth:          1
+
+borderColor:                        #0A1018
+
+bevelWidth:                         2
+borderWidth:                        1
+handleWidth:                        5

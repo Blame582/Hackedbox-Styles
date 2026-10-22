@@ -1,0 +1,108 @@
+#Name: BlueBerry-glass
+#Author: Blame582 <blame582@gmail.com>
+#built for Hackedbox 0.9.0+
+
+root.iconSet:                       /usr/share/icons/CRUSHED-Blueberries-Suru
+root.background:                    /usr/share/hackedbox/backgrounds/blueberry-glass/blueberry.jpg
+root.background.mode:               center
+
+menu.title:                         flat crossdiagonal gradient
+menu.title.font:                    Hack-16
+menu.title.justify:                 center
+menu.title.color:                   #283B63
+menu.title.colorTo:                 #101522
+menu.title.textColor:               #526DB5
+
+menu.frame:                         flat crossdiagonal gradient
+menu.frame.font:                    Hack-14
+menu.frame.justify:                 left
+menu.frame.color:                   #202838
+menu.frame.textColor:               #526DB5
+menu.frame.disableColor:            #71809F
+
+menu.hilite:                        flat solid
+menu.hilite.color:                  #526DB5
+menu.hilite.textColor:              #00FF00
+
+menu.bullet.position:               right
+menu.bullet:                        triangle
+
+menu.clock.font:                    Hack-15
+menu.clock.justify:                 left
+menu.clock.textColor:               #526DB5
+menu.clock.format:                  %I:%M:%S %p
+
+menu.date.font:                     Hack-15
+menu.date.justify:                  left
+menu.date.textColor:                #526DB5
+menu.date.format:                   %m/%d/%Y
+
+menu.icon:                          true
+menu.icon.position:                 left
+
+window.font:                        Hack-14
+window.justify:                     Center
+
+window.title.focus:                 flat solid
+window.title.focus.color:           #283B63
+window.title.focus.colorTo:         #283B63
+window.title.unfocus:               flat solid
+window.title.unfocus.color:         #1A2338
+
+window.label.focus:                 flat crossdiagonal gradient
+window.label.focus.color:           #283B63
+window.label.focus.colorTo:         #1A2338
+window.label.focus.textColor:       #00FF00
+
+window.label.unfocus:               flat crossdiagonal gradient
+window.label.unfocus.color:         #1A2338
+window.label.unfocus.colorTo:       #141B2B
+window.label.unfocus.textColor:     #98A8CC
+
+window.button.focus:                flat solid
+window.button.focus.color:          #283B63
+window.button.focus.colorTo:        #283B63
+window.button.focus.picColor:       #B8C9F5
+
+window.button.unfocus:              flat solid
+window.button.unfocus.color:        #1A2338
+window.button.unfocus.picColor:     #71809F
+
+window.button.pressed:              flat solid
+window.button.pressed.color:        #526DB5
+window.button.pressed.colorTo:      #526DB5
+
+window.handle.focus:                flat solid
+window.handle.focus.color:          #526DB5
+window.handle.focus.colorTo:        #526DB5
+window.handle.unfocus:              flat solid
+window.handle.unfocus.color:        #1A2338
+
+window.grip.focus:                  flat solid
+window.grip.focus.color:            #526DB5
+window.grip.focus.colorTo:          #526DB5
+window.grip.unfocus:                flat solid
+window.grip.unfocus.color:          #1A2338
+window.grip.unfocus.colorTo:        #1A2338
+
+window.frame.focusColor:            #526DB5
+window.frame.unfocusColor:          #34415D
+
+window.dialog.font:                 Hack-13
+window.dialog.bgcolor:              #101522
+window.dialog.inputColor:           #0C111E
+window.dialog.inputTextColor:       #E4EAFB
+window.dialog.textColor:            #E4EAFB
+window.dialog.accentColor:          #526DB5
+window.dialog.borderColor:          #34415D
+window.dialog.borderColor.focus:    #8DA8EC
+window.dialog.buttonColor:          #283B63
+window.dialog.buttonColorTo:        #1A2338
+window.dialog.buttonTextColor:      #E4EAFB
+window.dialog.buttonFocusColor:     #526DB5
+window.dialog.borderWidth:          1
+
+borderColor:                        #5630FF
+bevelWidth:                         1
+borderWidth:                        2
+handleWidth:                        4

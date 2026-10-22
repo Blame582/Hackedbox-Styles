@@ -1,0 +1,101 @@
+#name: Flux
+#updated: 10/2026 for hackedbox-0.9.0
+
+root.iconSet:                   /usr/share/icons/Suru+
+root.background:                /usr/share/hackedbox/styles/flux/minimalistic-samuri.jpg
+root.background.mode:           center
+
+menu.title.font:                Hack-18
+menu.title:                     flat crossdiagonal gradient
+menu.title.color:               #888877
+menu.title.colorTo:             #FFFFDD
+menu.title.textColor:           #22221C
+menu.title.justify:             right
+
+menu.frame.font:                Hack-14
+menu.frame:                     flat solid
+menu.frame.color:               #666654
+menu.frame.textColor:           #D9D9D9
+menu.frame.disableColor:        #AAAA8C
+menu.frame.justify:             center
+
+menu.hilite:                    flat solid
+menu.hilite.color:              #444438
+menu.hilite.textColor:          #FFFFDD
+
+menu.clock.font:                Hack-15
+menu.clock.textColor:           #D9D9D9
+menu.clock.format:              %I:%M:%S %p
+menu.clock.justify:             center
+
+menu.date.font:                 Hack-15
+menu.date.textColor:            #D9D9D9
+menu.date.format:               %m/%d/%Y
+menu.date.justify:              center
+
+menu.bullet:                    triangle
+menu.bullet.position:           right
+
+menu.icon:                      true
+menu.icon.position:             left
+menu.icon.alpha:                255
+
+window.font:                    Hack-18
+window.justify:                 right
+
+window.title.focus:             flat solid
+window.title.focus.color:       #666654
+window.title.unfocus:           flat solid
+window.title.unfocus.color:     #444438
+
+window.label.focus:             flat crossdiagonal gradient
+window.label.focus.color:       #888877
+window.label.focus.colorTo:     #FFFFDD
+window.label.focus.textColor:   #22221C
+window.label.unfocus:           flat solid
+window.label.unfocus.color:     #444438
+window.label.unfocus.textColor: #D9D9D9
+
+window.button.focus:            flat solid
+window.button.focus.color:      #666654
+window.button.focus.picColor:   #22221C
+window.button.unfocus:          flat solid
+window.button.unfocus.color:    #444438
+window.button.unfocus.picColor: #D9D9D9
+
+window.handle.focus:             flat crossdiagonal gradient
+window.handle.focus.color:      #888877
+window.handle.focus.colorTo:    #FFFFDD
+window.handle.unfocus:          flat solid
+window.handle.unfocus.color:    #444438
+
+window.grip.focus:              flat solid
+window.grip.focus.color:        #888877
+window.grip.unfocus:            flat solid
+window.grip.unfocus.color:      #444438
+
+window.frame.focusColor:        #FFFFDD
+window.frame.unfocusColor:      #666654
+
+window.dialog.font:             Hack-14
+window.dialog.bgcolor:          #444438
+window.dialog.inputColor:       #666654
+window.dialog.inputTextColor:   #D9D9D9
+window.dialog.textColor:        #D9D9D9
+window.dialog.accentColor:      #888877
+window.dialog.borderColor:      #22221C
+window.dialog.borderColor.focus:#FFFFDD
+window.dialog.buttonColor:      #666654
+window.dialog.buttonColorTo:    #888877
+window.dialog.buttonTextColor:  #22221C
+window.dialog.buttonFocusColor: #FFFFDD
+window.dialog.borderWidth:      2
+
+*button.pressed:                flat solid
+*button.pressed.color:          #AAAA8C
+
+borderColor:                    #22221C
+
+bevelWidth:                     2
+borderWidth:                    2
+handleWidth:                    3

@@ -1,0 +1,108 @@
+#Name: twice
+#Author: Unknown
+#updated: (09/2026) for hackedbox-0.9.0+
+
+root.iconSet:                         /usr/share/icons/Suru+
+root.background:                      /usr/share/hackedbox/styles/twice/twice.jpg
+root.background.mode:                 center
+
+menu.title.font:                      Hack-16
+menu.title:                           flat crossdiagonal gradient
+menu.title.color:                     #CC6666
+menu.title.colorTo:                   #663333
+menu.title.textColor:                 #FFFFFF
+menu.title.justify:                   center
+
+menu.frame.font:                      Hack-14
+menu.frame:                           flat crossdiagonal gradient
+menu.frame.color:                     #666666
+menu.frame.colorTo:                   #333333
+menu.frame.textColor:                 #D9D9D9
+menu.frame.disableColor:              #442222
+menu.frame.justify:                   center
+
+menu.hilite:                          flat crossdiagonal gradient
+menu.hilite.color:                    #CC6666
+menu.hilite.colorTo:                  #663333
+menu.hilite.textColor:                #FFFFFF
+
+menu.bullet:                          triangle
+menu.bullet.position:                 right
+
+menu.clock.font:                      Hack-12
+menu.clock.justify:                   center
+menu.clock.textColor:                 #D9D9D9
+menu.clock.format:                    %I:%M:%S %p
+
+menu.date.font:                       Hack-12
+menu.date.justify:                    center
+menu.date.textColor:                  #D9D9D9
+menu.date.format:                     %m/%d/%Y
+
+menu.icon:                            true
+menu.icon.position:                   left
+
+window.font:                          Hack-14
+window.justify:                       Right
+
+window.title.focus:                   flat diagonal gradient
+window.title.focus.color:             #CC6666
+window.title.focus.colorTo:           #884444
+window.title.unfocus:                 flat solid
+window.title.unfocus.color:           #4D4D4D
+
+window.label.focus:                   flat crossdiagonal gradient
+window.label.focus.color:             #666666
+window.label.focus.colorTo:           #333333
+window.label.focus.textColor:         #FFFFFF
+window.label.unfocus:                 flat crossdiagonal gradient
+window.label.unfocus.color:           #4D4D4D
+window.label.unfocus.colorTo:         #333333
+window.label.unfocus.textColor:       #999999
+
+window.button.focus:                  flat diagonal gradient
+window.button.focus.color:            #884444
+window.button.focus.colorTo:          #AA5555
+window.button.focus.picColor:         #442222
+window.button.unfocus:                flat solid
+window.button.unfocus.color:          #4D4D4D
+window.button.unfocus.picColor:       #333333
+window.button.pressed:                flat crossdiagonal gradient
+window.button.pressed.color:          #666666
+window.button.pressed.colorTo:        #333333
+
+window.handle.focus:                  flat crossdiagonal gradient
+window.handle.focus.color:            #CC6666
+window.handle.focus.colorTo:          #663333
+window.handle.unfocus:                flat solid
+window.handle.unfocus.color:          #4D4D4D
+
+window.grip.focus:                    flat crossdiagonal gradient
+window.grip.focus.color:              #666666
+window.grip.focus.colorTo:            #333333
+window.grip.unfocus:                  flat crossdiagonal gradient
+window.grip.unfocus.color:            #4D4D4D
+window.grip.unfocus.colorTo:          #333333
+
+window.dialog.font:                   Hack-14
+window.dialog.bgcolor:                #333333
+window.dialog.inputColor:             #4D4D4D
+window.dialog.inputTextColor:         #D9D9D9
+window.dialog.textColor:              #FFFFFF
+window.dialog.accentColor:            #CC6666
+window.dialog.borderColor:            #1A1A1A
+window.dialog.borderColor.focus:      #CC6666
+window.dialog.buttonColor:            #666666
+window.dialog.buttonColorTo:          #333333
+window.dialog.buttonTextColor:        #FFFFFF
+window.dialog.buttonFocusColor:       #CC6666
+window.dialog.borderWidth:            1
+
+window.frame.focusColor:              #CC6666
+window.frame.unfocusColor:            #4D4D4D
+
+borderColor:                          #1A1A1A
+
+bevelWidth:                           1
+borderWidth:                          2
+handleWidth:                          4
